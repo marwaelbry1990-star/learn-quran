@@ -1,0 +1,227 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "af409871227fff9e4e1a8a0e7e52b7c1"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/mrw",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/mrw/index.html",
+        "type": "file",
+        "md5": "c5e44fd39e7ec2d77507cb7ec9472362"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "43428efc60c2a9bc63352be5c624ce06"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "0f6529c36fc9363419188caa9c129f1b"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "aa02d2f286e0aae596a78847da6e9c57"
+    },
+    {
+        "path": "learn-quran-recitation-online-a-peaceful-journey-toward-mastering-the-words-of-allah",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-recitation-online-a-peaceful-journey-toward-mastering-the-words-of-allah/index.html",
+        "type": "file",
+        "md5": "a4212f4e249646327dff2c9b3cca3d19"
+    },
+    {
+        "path": "learn-quran-recitation-online-master-the-art-of-reading-the-words-of-allah-with-beauty-and-precision",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-recitation-online-master-the-art-of-reading-the-words-of-allah-with-beauty-and-precision/index.html",
+        "type": "file",
+        "md5": "81e10de9345cb76f06d207611d2fe376"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/tfsyr-2xl.png",
+        "type": "file",
+        "md5": "732eecabb4376316ad6baf1dd104ef45"
+    },
+    {
+        "path": "/media/website/responsive/tfsyr-lg.png",
+        "type": "file",
+        "md5": "732eecabb4376316ad6baf1dd104ef45"
+    },
+    {
+        "path": "/media/website/responsive/tfsyr-md.png",
+        "type": "file",
+        "md5": "732eecabb4376316ad6baf1dd104ef45"
+    },
+    {
+        "path": "/media/website/responsive/tfsyr-sm.png",
+        "type": "file",
+        "md5": "732eecabb4376316ad6baf1dd104ef45"
+    },
+    {
+        "path": "/media/website/responsive/tfsyr-xl.png",
+        "type": "file",
+        "md5": "732eecabb4376316ad6baf1dd104ef45"
+    },
+    {
+        "path": "/media/website/responsive/tfsyr-xs.png",
+        "type": "file",
+        "md5": "732eecabb4376316ad6baf1dd104ef45"
+    },
+    {
+        "path": "/media/website/tfsyr.png",
+        "type": "file",
+        "md5": "f5e51629f7c1b609a188d7b9e37df777"
+    },
+    {
+        "path": "online-quran-courses-discover-the-easiest-way-to-connect-with-the-words-of-allah",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-courses-discover-the-easiest-way-to-connect-with-the-words-of-allah/index.html",
+        "type": "file",
+        "md5": "d7289ef0cac625840baa4b460e206d50"
+    },
+    {
+        "path": "online-quran-courses-learn-reflect-and-transform-your-life-through-the-words-of-allah",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-courses-learn-reflect-and-transform-your-life-through-the-words-of-allah/index.html",
+        "type": "file",
+        "md5": "4bd5a43927f380ad3edfe5e6dbcf1bfc"
+    },
+    {
+        "path": "online-quran-courses-your-path-to-understanding-and-spiritual-growth",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-courses-your-path-to-understanding-and-spiritual-growth/index.html",
+        "type": "file",
+        "md5": "bdeb59c13fbb6be441800fe6ccb68510"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "0c667947d4e2cacd0c8a18b34b3cd941"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "c56604902ceb9298f45cd6c506d61b05"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "943efb6c7ebcb3a54a0d343bcd46968e"
+    }
+]
